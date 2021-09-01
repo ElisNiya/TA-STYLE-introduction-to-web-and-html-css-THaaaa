@@ -1,0 +1,36 @@
+body {
+    background-color: #22386A;
+    color:white;
+    padding: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+img{
+    justify-content: center;
+}
+#name{
+    text-align: center;
+}
+address{
+    text-align: center;
+}
+
+.green {
+    color:green;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+footer{
+    text-align: center;
+    background-color:darkblue;
+    border: solid 1px darkblue;
+    width: 80%;
+    margin:20px;
+    padding: 20px;
+}
+a {
+    color:red;
+}
